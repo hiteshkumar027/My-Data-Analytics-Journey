@@ -1,9 +1,9 @@
-My Data Analytics Journey
+## My Data Analytics Journey
 
 Hi, I'm **Hitesh Kumar**.  
 I am currently learning **Data Analytics** and building skills through hands-on practice and projects.
 
-Skills
+## Skills
 - SQL
 - Python
 - Excel
@@ -11,18 +11,18 @@ Skills
 - Data Cleaning
 - Data Visualization
 
-About This Repository
+## About This Repository
 This repository contains my learning work, practice files, and data analysis projects.  
 I will upload SQL queries, Python notebooks, Excel reports, and Power BI dashboards here.
 
-Learning Focus
+## Learning Focus
 - Data Cleaning and Preparation
 - Exploratory Data Analysis (EDA)
 - Dashboard Building
 - Business Insights using Data
 - SQL Query Practice
 
-Upcoming Projects
+## Upcoming Projects
 - Sales Dashboard using Power BI
 - Netflix Dataset Analysis using Python
 - SQL E-commerce Case Study
